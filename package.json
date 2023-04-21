@@ -1,0 +1,26 @@
+{
+  "name": "shared-code-for-tests-and-docs",
+  "author": {
+    "name": "David McAfee",
+    "email": "d.mcafee712@gmail.com",
+    "url": "http://www.davidmcafee.com/"
+  },
+  "version": "1.0.0",
+  "keywords": [
+    "E2E",
+    "tests",
+    "docs",
+    "code",
+    "snippets"
+  ],
+  "description": "Collection of code snippets for sharing between E2E tests and public docs. This is a work in progress proof-of-concept.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-mcafee/shared-code-for-tests-and-docs.git"
+  },
+  "homepage": "https://www.davidmcafee.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/david-mcafee/shared-code-for-tests-and-docs/issues"
+  }
+}
