@@ -1,5 +1,5 @@
 export const saveSnippet = async (DataStore, Post, Comment, PostStatus) => {
-  // region docs render lines 3 through 16
+  //#region
   const post = await DataStore.save(
     new Post({
       title: "My Post with comments",
@@ -14,5 +14,5 @@ export const saveSnippet = async (DataStore, Post, Comment, PostStatus) => {
       postID: post.id,
     })
   );
-  //endregion
+  //#endregion
 };
